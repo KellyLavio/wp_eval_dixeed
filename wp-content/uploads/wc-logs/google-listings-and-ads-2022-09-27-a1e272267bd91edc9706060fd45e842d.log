@@ -1,1 +1,2 @@
 2022-09-27T09:03:15+00:00 ERROR Automattic\WooCommerce\GoogleListingsAndAds\Notes\NoteInitializer::add_notes Google account is not connected.
+2022-09-27T11:59:37+00:00 ERROR Automattic\WooCommerce\GoogleListingsAndAds\Notes\NoteInitializer::deactivate No action matching wc_gla_cron_daily_notes was found.
