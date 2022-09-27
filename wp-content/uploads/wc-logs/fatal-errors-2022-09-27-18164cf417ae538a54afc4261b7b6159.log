@@ -8,3 +8,9 @@
 
 2022-09-27T13:23:51+00:00 CRITICAL syntax error, unexpected end of file dans C:\wamp64\www\wp_eval_dixeed\wp-content\themes\storefront\functions.php à la ligne 78
 
+2022-09-27T16:16:58+00:00 CRITICAL syntax error, unexpected end of file, expecting '(' dans C:\wamp64\www\wp_eval_dixeed\wp-content\plugins\theme-customisations\custom\functions.php à la ligne 49
+
+2022-09-27T16:18:59+00:00 CRITICAL syntax error, unexpected '}' dans C:\wamp64\www\wp_eval_dixeed\wp-content\plugins\theme-customisations\custom\functions.php à la ligne 51
+
+2022-09-27T18:12:49+00:00 CRITICAL syntax error, unexpected end of file dans C:\wamp64\www\wp_eval_dixeed\wp-content\plugins\theme-customisations\custom\functions.php à la ligne 55
+
