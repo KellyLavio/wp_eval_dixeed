@@ -1,3 +1,9 @@
+/**
+ * Add any custom CSS here.
+ *
+ * This file will be loaded after all other theme stylesheets.
+ */
+
 .woocommerce #content input.button,
 .woocommerce #respond input#submit,
 .woocommerce a.button,
